@@ -1,2 +1,2 @@
 fonction OK
-wait(1500ms)
+wait(2500ms)
